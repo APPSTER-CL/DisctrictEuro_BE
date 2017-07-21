@@ -1,0 +1,301 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-08-01 12:23-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\core\exceptions.py:8
+msgid "Not enough stock"
+msgstr ""
+
+#: .\core\models.py:20 .\core\models.py:34 .\core\models.py:41
+#: .\core\models.py:160 .\core\models.py:175 .\core\models.py:193
+#: .\core\models.py:213 .\core\models.py:253 .\core\models.py:275
+#: .\core\models.py:339
+msgid "Name"
+msgstr ""
+
+#: .\core\models.py:21
+msgid "Large URL"
+msgstr ""
+
+#: .\core\models.py:22
+msgid "Medium URL"
+msgstr ""
+
+#: .\core\models.py:23
+msgid "Samll URL"
+msgstr ""
+
+#: .\core\models.py:24
+msgid "Thumbnail URL"
+msgstr ""
+
+#: .\core\models.py:25
+msgid "Objcet Type"
+msgstr ""
+
+#: .\core\models.py:26
+msgid "Object id"
+msgstr ""
+
+#: .\core\models.py:42 .\core\models.py:255 .\core\models.py:277
+msgid "Country"
+msgstr ""
+
+#: .\core\models.py:45 .\core\models.py:254 .\core\models.py:276
+msgid "City"
+msgstr ""
+
+#: .\core\models.py:46
+msgid "Cities"
+msgstr ""
+
+#: .\core\models.py:94
+msgid "email address"
+msgstr ""
+
+#: .\core\models.py:95
+msgid "date joined"
+msgstr ""
+
+#: .\core\models.py:97
+msgid "First Name"
+msgstr ""
+
+#: .\core\models.py:98
+msgid "Last Name"
+msgstr ""
+
+#: .\core\models.py:99
+msgid "staff status"
+msgstr ""
+
+#: .\core\models.py:100
+msgid "active"
+msgstr ""
+
+#: .\core\models.py:114 .\core\models.py:320
+msgid "Consumer"
+msgstr ""
+
+#: .\core\models.py:114
+msgid "Employee"
+msgstr ""
+
+#: .\core\models.py:114 .\core\models.py:174
+msgid "Vendor"
+msgstr ""
+
+#: .\core\models.py:127 .\core\models.py:135 .\core\models.py:145
+msgid "User"
+msgstr ""
+
+#: .\core\models.py:137 .\core\models.py:268 .\core\models.py:280
+#: .\core\models.py:368
+msgid "Warehouse"
+msgstr ""
+
+#: .\core\models.py:138
+msgid "Showroom"
+msgstr ""
+
+#: .\core\models.py:161
+msgid "Parent Category"
+msgstr ""
+
+#: .\core\models.py:163
+msgid "Is Leaf"
+msgstr ""
+
+#: .\core\models.py:169
+msgid "Category"
+msgstr ""
+
+#: .\core\models.py:170 .\core\models.py:179
+msgid "Categories"
+msgstr ""
+
+#: .\core\models.py:176 .\core\models.py:194 .\core\models.py:214
+#: .\core\models.py:257 .\core\models.py:279 .\core\models.py:340
+msgid "Description"
+msgstr ""
+
+#: .\core\models.py:177 .\core\models.py:258 .\core\models.py:281
+msgid "Latitude"
+msgstr ""
+
+#: .\core\models.py:178 .\core\models.py:259 .\core\models.py:282
+msgid "Longitude"
+msgstr ""
+
+#: .\core\models.py:191 .\core\models.py:240 .\core\models.py:337
+msgid "SKU"
+msgstr ""
+
+#: .\core\models.py:192 .\core\models.py:211 .\core\models.py:321
+#: .\core\models.py:369
+msgid "Store"
+msgstr ""
+
+#: .\core\models.py:196
+msgid "Is active"
+msgstr ""
+
+#: .\core\models.py:212
+msgid "Date added"
+msgstr ""
+
+#: .\core\models.py:215
+msgid "Currency"
+msgstr ""
+
+#: .\core\models.py:217 .\core\models.py:344
+msgid "Attributes"
+msgstr ""
+
+#: .\core\models.py:218
+msgid "Validation Errors"
+msgstr ""
+
+#: .\core\models.py:226 .\core\models.py:239
+msgid "Product"
+msgstr ""
+
+#: .\core\models.py:227
+msgid "Property"
+msgstr ""
+
+#: .\core\models.py:228
+msgid "Value"
+msgstr ""
+
+#: .\core\models.py:234
+msgid "Product Attribute"
+msgstr ""
+
+#: .\core\models.py:235 .\core\models.py:242
+msgid "Product Attributes"
+msgstr ""
+
+#: .\core\models.py:248
+msgid "Product Units"
+msgstr ""
+
+#: .\core\models.py:249
+msgid "Products Units"
+msgstr ""
+
+#: .\core\models.py:256 .\core\models.py:278
+msgid "Address"
+msgstr ""
+
+#: .\core\models.py:266 .\core\models.py:338 .\core\models.py:370
+msgid "Product Unit"
+msgstr ""
+
+#: .\core\models.py:267 .\core\models.py:343 .\core\models.py:371
+msgid "Quantity"
+msgstr ""
+
+#: .\core\models.py:289
+msgid "Level"
+msgstr ""
+
+#: .\core\models.py:290 .\core\models.py:291
+msgid "Message"
+msgstr ""
+
+#: .\core\models.py:295
+msgid "Log"
+msgstr ""
+
+#: .\core\models.py:296
+msgid "Logs"
+msgstr ""
+
+#: .\core\models.py:311 .\core\models.py:361
+msgid "Pending"
+msgstr ""
+
+#: .\core\models.py:312
+msgid "In Progress"
+msgstr ""
+
+#: .\core\models.py:313 .\core\models.py:362
+msgid "Shipped"
+msgstr ""
+
+#: .\core\models.py:314 .\core\models.py:363
+msgid "Delivered"
+msgstr ""
+
+#: .\core\models.py:315
+msgid "Returned"
+msgstr ""
+
+#: .\core\models.py:323 .\core\models.py:372
+msgid "Tracking Number"
+msgstr ""
+
+#: .\core\models.py:325
+msgid "Date created"
+msgstr ""
+
+#: .\core\models.py:326
+msgid "Shipping Address"
+msgstr ""
+
+#: .\core\models.py:328
+msgid "Total Products Quantity"
+msgstr ""
+
+#: .\core\models.py:335
+msgid "Order"
+msgstr ""
+
+#: .\core\models.py:341
+msgid "Unit Price"
+msgstr ""
+
+#: .\core\models.py:342
+msgid "Total Price"
+msgstr ""
+
+#: .\core\models.py:351
+msgid "Order Item"
+msgstr ""
+
+#: .\core\models.py:352
+msgid "Order Items"
+msgstr ""
+
+#: .\core\models.py:373
+msgid "Status"
+msgstr ""
+
+#: .\district_euro\settings.py:280
+msgid "English"
+msgstr ""
+
+#: .\district_euro\settings.py:281
+msgid "Simplified Chinese"
+msgstr ""
+
+#: .\district_euro\settings.py:282
+msgid "Traditional Chinese"
+msgstr ""

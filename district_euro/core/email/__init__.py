@@ -1,0 +1,1 @@
+from .logic import send_mail_join_request

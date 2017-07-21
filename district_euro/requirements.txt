@@ -1,0 +1,16 @@
+boto==2.42.0
+Django==1.10.3
+django-cors-headers==1.1.0
+django-filter==0.13.0
+django-money==0.9.1
+django-rest-swagger==0.3.8
+djangorestframework==3.4.6
+djangorestframework-jwt==1.8.0
+Pillow==3.3.1
+psycopg2==2.6.2
+py-moneyed==0.6.0
+PyJWT==1.4.0
+python-resize-image==1.1.10
+pytz==2016.4
+PyYAML==3.11
+openpyxl==2.3.5

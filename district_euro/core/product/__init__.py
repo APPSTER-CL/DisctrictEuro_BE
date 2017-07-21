@@ -1,0 +1,1 @@
+from .logic import bulk_product_upload
